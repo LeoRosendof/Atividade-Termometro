@@ -21,8 +21,19 @@ Como compilar e executar
 3. Compile o arquivo desejado utilizando o comando `gcc`. Por exemplo, para compilar a primeira atividade:
 
 ```bash
+
 gcc atividade1.c -o programa
+```
 
 4. Após a compilação, execute o programa gerado:
+
+No Windows:
+```bash
 .\programa.exe
+```
+
+No Linux ou Mac:
+```bash
 ./programa
+```
+
