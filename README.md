@@ -15,19 +15,14 @@ Para compilar e executar estes códigos, você precisará de um compilador C ins
 Como compilar e executar
 
 1. Faça o clone deste repositório ou baixe os arquivos em formato ZIP.
-2. Abra o terminal (ou prompt de comando) e navegue até a pasta onde os arquivos .c estão salvos.
+
+2. Abra o terminal (ou prompt de comando) e navegue até a pasta onde os arquivos `.c` estão salvos.
+
 3. Compile o arquivo desejado utilizando o comando `gcc`. Por exemplo, para compilar a primeira atividade:
 
-   ```bash
-   gcc atividade1.c -o programa
+```bash
+gcc atividade1.c -o programa
 
 4. Após a compilação, execute o programa gerado:
-
-Se for Windows, use o comando:
-
-Bash
 .\programa.exe
-Já se for Linux ou Mac, use o comando:
-
-Bash
 ./programa
